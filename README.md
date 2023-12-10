@@ -12,7 +12,7 @@ Make sure to have the following software installed on your machine:
 - [npm](https://www.npmjs.com/)
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-## Back-end Configuration (C# WebAPI)
+## Remember to clone the repositories!
 
 1. Clone the front-end: `git clone https://github.com/leonardoxyz/youtube-client`
 2. Clone the back-end: `git clone https://github.com/leonardoxyz/youtube-server`
